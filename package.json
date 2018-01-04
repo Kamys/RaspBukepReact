@@ -1,7 +1,7 @@
 {
   "name": "raspbukepreact",
   "version": "1.0.0",
-  "description": "",
+  "description": "The react website with the schedule.",
   "main": "index.js",
   "scripts": {
     "prod": "NODE_ENV=production node index.js",
@@ -37,5 +37,9 @@
     "sass-loader": "^6.0.6",
     "style-loader": "^0.19.1",
     "uglifyjs-webpack-plugin": "^1.1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kamys/RaspBukepReact.git"
   }
 }
