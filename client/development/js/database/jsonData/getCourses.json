@@ -1,0 +1,142 @@
+[
+  {
+    "pulpit": {
+      "key": 28,
+      "value": "Административного и финансового права"
+    },
+    "isActiveSchedule": true
+  },
+  {
+    "pulpit": {
+      "key": 40,
+      "value": "Бухгалтерского учета, анализа и статистики"
+    },
+    "isActiveSchedule": false
+  },
+  {
+    "pulpit": {
+      "key": 29,
+      "value": "Гостинично-туристического сервиса, коммерции и рекламы"
+    },
+    "isActiveSchedule": true
+  },
+  {
+    "pulpit": {
+      "key": 47,
+      "value": "Гражданского права и процесса"
+    },
+    "isActiveSchedule": true
+  },
+  {
+    "pulpit": {
+      "key": 36,
+      "value": "Гуманитарных, социальных и правовых дисциплин"
+    },
+    "isActiveSchedule": false
+  },
+  {
+    "pulpit": {
+      "key": 46,
+      "value": "Естественнонаучных дисциплин"
+    },
+    "isActiveSchedule": true
+  },
+  {
+    "pulpit": {
+      "key": 30,
+      "value": "Иностранных языков"
+    },
+    "isActiveSchedule": false
+  },
+  {
+    "pulpit": {
+      "key": 16,
+      "value": "Информационных систем и технологий"
+    },
+    "isActiveSchedule": true
+  },
+  {
+    "pulpit": {
+      "key": 41,
+      "value": "Маркетинга и менеджмента"
+    },
+    "isActiveSchedule": true
+  },
+  {
+    "pulpit": {
+      "key": 22,
+      "value": "Организации и технологии защиты информации"
+    },
+    "isActiveSchedule": true
+  },
+  {
+    "pulpit": {
+      "key": 10232,
+      "value": "Русского языка и деловых коммуникаций"
+    },
+    "isActiveSchedule": false
+  },
+  {
+    "pulpit": {
+      "key": 24,
+      "value": "Таможенных операций и таможенного контроля"
+    },
+    "isActiveSchedule": false
+  },
+  {
+    "pulpit": {
+      "key": 31,
+      "value": "Теории и истории государства и права"
+    },
+    "isActiveSchedule": true
+  },
+  {
+    "pulpit": {
+      "key": 42,
+      "value": "Теории и истории кооперативного движения"
+    },
+    "isActiveSchedule": false
+  },
+  {
+    "pulpit": {
+      "key": 43,
+      "value": "Технологии общественного питания и товароведения"
+    },
+    "isActiveSchedule": true
+  },
+  {
+    "pulpit": {
+      "key": 37,
+      "value": "Трудового и предпринимательского права"
+    },
+    "isActiveSchedule": true
+  },
+  {
+    "pulpit": {
+      "key": 39,
+      "value": "Уголовного права и процесса"
+    },
+    "isActiveSchedule": true
+  },
+  {
+    "pulpit": {
+      "key": 34,
+      "value": "Физической культуры и спорта"
+    },
+    "isActiveSchedule": false
+  },
+  {
+    "pulpit": {
+      "key": 27,
+      "value": "Финансов и таможенных доходов"
+    },
+    "isActiveSchedule": false
+  },
+  {
+    "pulpit": {
+      "key": 32,
+      "value": "Экономики"
+    },
+    "isActiveSchedule": true
+  }
+]

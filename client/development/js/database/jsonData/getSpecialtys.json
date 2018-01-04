@@ -1,0 +1,74 @@
+[
+  {
+    "speciality": {
+      "key": [
+        1370
+      ],
+      "value": "Информационные системы (по отраслям)"
+    },
+    "levelQualification": {
+      "key": 1,
+      "value": ""
+    }
+  },
+  {
+    "speciality": {
+      "key": [
+        1411
+      ],
+      "value": "Организация и технология защиты информации"
+    },
+    "levelQualification": {
+      "key": 1,
+      "value": ""
+    }
+  },
+  {
+    "speciality": {
+      "key": [
+        1394
+      ],
+      "value": "Право и организация социального обеспечения"
+    },
+    "levelQualification": {
+      "key": 1,
+      "value": ""
+    }
+  },
+  {
+    "speciality": {
+      "key": [
+        1363
+      ],
+      "value": "Прикладная информатика (по отраслям)"
+    },
+    "levelQualification": {
+      "key": 1,
+      "value": ""
+    }
+  },
+  {
+    "speciality": {
+      "key": [
+        1423
+      ],
+      "value": "Технология продукции общественного питания"
+    },
+    "levelQualification": {
+      "key": 1,
+      "value": ""
+    }
+  },
+  {
+    "speciality": {
+      "key": [
+        1434
+      ],
+      "value": "Товароведение и экспертиза качества потребительских товаров"
+    },
+    "levelQualification": {
+      "key": 1,
+      "value": ""
+    }
+  }
+]

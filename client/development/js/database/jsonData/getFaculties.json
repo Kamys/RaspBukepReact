@@ -1,0 +1,100 @@
+[
+  {
+    "faculty": {
+      "key": 10004,
+      "value": "Второго высшего образования и магистерской подготовки"
+    },
+    "isActiveSchedule": true
+  },
+  {
+    "faculty": {
+      "key": 9,
+      "value": "Заочного обучения"
+    },
+    "isActiveSchedule": true
+  },
+  {
+    "faculty": {
+      "key": 10,
+      "value": "Общественного питания и товароведения"
+    },
+    "isActiveSchedule": true
+  },
+  {
+    "faculty": {
+      "key": 12,
+      "value": "Отдел аспирантуры"
+    },
+    "isActiveSchedule": false
+  },
+  {
+    "faculty": {
+      "key": 14,
+      "value": "Подготовительный факультет"
+    },
+    "isActiveSchedule": false
+  },
+  {
+    "faculty": {
+      "key": 10045,
+      "value": "СПО - заочная форма"
+    },
+    "isActiveSchedule": false
+  },
+  {
+    "faculty": {
+      "key": 1,
+      "value": "Среднего профессионального образования"
+    },
+    "isActiveSchedule": false
+  },
+  {
+    "faculty": {
+      "key": 10083,
+      "value": "Среднего профессионального образования №1"
+    },
+    "isActiveSchedule": true
+  },
+  {
+    "faculty": {
+      "key": 10084,
+      "value": "Среднего профессионального образования №2"
+    },
+    "isActiveSchedule": true
+  },
+  {
+    "faculty": {
+      "key": 7,
+      "value": "Таможенного дела и информационных технологий"
+    },
+    "isActiveSchedule": true
+  },
+  {
+    "faculty": {
+      "key": 10046,
+      "value": "Учебно-методический центр"
+    },
+    "isActiveSchedule": false
+  },
+  {
+    "faculty": {
+      "key": 15,
+      "value": "Учебно-методический центр повышения квалификации и переподготовки кадров"
+    },
+    "isActiveSchedule": false
+  },
+  {
+    "faculty": {
+      "key": 11,
+      "value": "Экономики и менеджмента"
+    },
+    "isActiveSchedule": true
+  },
+  {
+    "faculty": {
+      "key": 8,
+      "value": "Юридический"
+    },
+    "isActiveSchedule": true
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "idsSchedulGroup": [
+      5312
+    ],
+    "group": [
+      {
+        "group": {
+          "key": 3543,
+          "value": "И-51"
+        },
+        "isPhantomGroup": false,
+        "affixusNameGroup": "(9)",
+        "nameGroupOld": "",
+        "course": 3,
+        "form": {
+          "key": 0,
+          "value": "Очная"
+        }
+      }
+    ],
+    "ssf": {
+      "key": 1167,
+      "value": "И9(3+)"
+    },
+    "semestr": 1,
+    "typeShedule": {
+      "key": 1,
+      "value": "(расписание на семестр)"
+    },
+    "isActive": false,
+    "scheduleDateFrom": "2016-09-05T00:00:00",
+    "scheduleDateTo": "2016-12-25T00:00:00"
+  },
+  {
+    "idsSchedulGroup": [
+      6213
+    ],
+    "group": [
+      {
+        "group": {
+          "key": 3543,
+          "value": "И-51"
+        },
+        "isPhantomGroup": false,
+        "affixusNameGroup": "(9)",
+        "nameGroupOld": "",
+        "course": 3,
+        "form": {
+          "key": 0,
+          "value": "Очная"
+        }
+      }
+    ],
+    "ssf": {
+      "key": 1167,
+      "value": "И9(3+)"
+    },
+    "semestr": 2,
+    "typeShedule": {
+      "key": 1,
+      "value": "(расписание на семестр)"
+    },
+    "isActive": false,
+    "scheduleDateFrom": "2017-01-16T00:00:00",
+    "scheduleDateTo": "2017-06-25T00:00:00"
+  },
+  {
+    "idsSchedulGroup": [
+      7259
+    ],
+    "group": [
+      {
+        "group": {
+          "key": 3543,
+          "value": "И-51"
+        },
+        "isPhantomGroup": false,
+        "affixusNameGroup": "(9)",
+        "nameGroupOld": "",
+        "course": 3,
+        "form": {
+          "key": 0,
+          "value": "Очная"
+        }
+      }
+    ],
+    "ssf": {
+      "key": 1167,
+      "value": "И9(3+)"
+    },
+    "semestr": 2,
+    "typeShedule": {
+      "key": 10,
+      "value": "(сессия)"
+    },
+    "isActive": false,
+    "scheduleDateFrom": "2017-06-26T00:00:00",
+    "scheduleDateTo": "2017-07-02T00:00:00"
+  },
+  {
+    "idsSchedulGroup": [
+      6130
+    ],
+    "group": [
+      {
+        "group": {
+          "key": 3543,
+          "value": "И-51"
+        },
+        "isPhantomGroup": false,
+        "affixusNameGroup": "(9)",
+        "nameGroupOld": "",
+        "course": 3,
+        "form": {
+          "key": 0,
+          "value": "Очная"
+        }
+      }
+    ],
+    "ssf": {
+      "key": 1167,
+      "value": "И9(3+)"
+    },
+    "semestr": 1,
+    "typeShedule": {
+      "key": 10,
+      "value": "(сессия)"
+    },
+    "isActive": false,
+    "scheduleDateFrom": "2016-12-26T00:00:00",
+    "scheduleDateTo": "2017-01-01T00:00:00"
+  }
+]

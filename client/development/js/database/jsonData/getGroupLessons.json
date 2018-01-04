@@ -1,0 +1,848 @@
+[
+  {
+    "typeShedule": {
+      "key": 1,
+      "value": "Теоретическое обучение"
+    },
+    "typeWeek": {
+      "key": 2,
+      "value": "Знам."
+    },
+    "day": {
+      "key": 1,
+      "value": "понедельник"
+    },
+    "lesson": {
+      "key": 9,
+      "value": "5 пара"
+    },
+    "typeLesson": {
+      "key": 1,
+      "value": "Лекционное занятие"
+    },
+    "dateLesson": "2017-05-01T00:00:00",
+    "timeLesson": {
+      "nameLessonTime": "5 пара",
+      "startLesson": "16:20:00",
+      "endLesson": "17:55:00",
+      "durability": "01:35"
+    },
+    "auditory": [
+      {
+        "key": 26,
+        "value": "115"
+      }
+    ],
+    "teachers": [
+      {
+        "key": [
+          166
+        ],
+        "value": "ст. преп. Банчук Г.Г."
+      }
+    ],
+    "discipline": {
+      "key": 4348,
+      "value": "Информационные технологии и платформы разработки информационных систем"
+    },
+    "groups": [
+      {
+        "group": {
+          "key": 2486,
+          "value": "ИС-41"
+        },
+        "isPhantomGroup": false,
+        "affixusNameGroup": "(9)",
+        "nameGroupOld": "ИС9 (3+)-11",
+        "course": 4,
+        "form": {
+          "key": 1,
+          "value": "Очная"
+        }
+      }
+    ]
+  },
+  {
+    "typeShedule": {
+      "key": 1,
+      "value": "Теоретическое обучение"
+    },
+    "typeWeek": {
+      "key": 2,
+      "value": "Знам."
+    },
+    "day": {
+      "key": 2,
+      "value": "вторник"
+    },
+    "lesson": {
+      "key": 1,
+      "value": "1 пара"
+    },
+    "typeLesson": {
+      "key": 1,
+      "value": "Лекционное занятие"
+    },
+    "dateLesson": "2017-05-02T00:00:00",
+    "timeLesson": {
+      "nameLessonTime": "1 пара",
+      "startLesson": "08:30:00",
+      "endLesson": "10:05:00",
+      "durability": "01:35"
+    },
+    "auditory": [
+      {
+        "key": 42,
+        "value": "124"
+      }
+    ],
+    "teachers": [
+      {
+        "key": [
+          166
+        ],
+        "value": "ст. преп. Банчук Г.Г."
+      }
+    ],
+    "discipline": {
+      "key": 436,
+      "value": "Языки программирования баз данных"
+    },
+    "groups": [
+      {
+        "group": {
+          "key": 3531,
+          "value": "ПИН-51"
+        },
+        "isPhantomGroup": false,
+        "affixusNameGroup": "",
+        "nameGroupOld": "",
+        "course": 3,
+        "form": {
+          "key": 1,
+          "value": "Очная"
+        }
+      }
+    ]
+  },
+  {
+    "typeShedule": {
+      "key": 1,
+      "value": "Теоретическое обучение"
+    },
+    "typeWeek": {
+      "key": 2,
+      "value": "Знам."
+    },
+    "day": {
+      "key": 2,
+      "value": "вторник"
+    },
+    "lesson": {
+      "key": 7,
+      "value": "4 пара"
+    },
+    "typeLesson": {
+      "key": 1,
+      "value": "Лекционное занятие"
+    },
+    "dateLesson": "2017-05-02T00:00:00",
+    "timeLesson": {
+      "nameLessonTime": "4 пара",
+      "startLesson": "14:35:00",
+      "endLesson": "16:10:00",
+      "durability": "01:35"
+    },
+    "auditory": [
+      {
+        "key": 26,
+        "value": "115"
+      }
+    ],
+    "teachers": [
+      {
+        "key": [
+          166
+        ],
+        "value": "ст. преп. Банчук Г.Г."
+      },
+      {
+        "key": [],
+        "value": "ст. преп. Банчук Г.Г."
+      }
+    ],
+    "discipline": {
+      "key": 4343,
+      "value": "Основы проектирования баз данных"
+    },
+    "groups": [
+      {
+        "group": {
+          "key": 3543,
+          "value": "И-51"
+        },
+        "isPhantomGroup": false,
+        "affixusNameGroup": "(9)",
+        "nameGroupOld": "",
+        "course": 3,
+        "form": {
+          "key": 1,
+          "value": "Очная"
+        }
+      },
+      {
+        "group": {
+          "key": 4316,
+          "value": "И-62с"
+        },
+        "isPhantomGroup": true,
+        "affixusNameGroup": "(11)",
+        "nameGroupOld": "",
+        "course": 2,
+        "form": {
+          "key": 1,
+          "value": null
+        }
+      }
+    ]
+  },
+  {
+    "typeShedule": {
+      "key": 1,
+      "value": "Теоретическое обучение"
+    },
+    "typeWeek": {
+      "key": 2,
+      "value": "Знам."
+    },
+    "day": {
+      "key": 2,
+      "value": "вторник"
+    },
+    "lesson": {
+      "key": 9,
+      "value": "5 пара"
+    },
+    "typeLesson": {
+      "key": 3,
+      "value": "Лабораторное занятие"
+    },
+    "dateLesson": "2017-05-02T00:00:00",
+    "timeLesson": {
+      "nameLessonTime": "5 пара",
+      "startLesson": "16:20:00",
+      "endLesson": "17:55:00",
+      "durability": "01:35"
+    },
+    "auditory": [
+      {
+        "key": 16,
+        "value": "117"
+      }
+    ],
+    "teachers": [
+      {
+        "key": [
+          166
+        ],
+        "value": "ст. преп. Банчук Г.Г."
+      }
+    ],
+    "discipline": {
+      "key": 4348,
+      "value": "Информационные технологии и платформы разработки информационных систем"
+    },
+    "groups": [
+      {
+        "group": {
+          "key": 2486,
+          "value": "ИС-41"
+        },
+        "isPhantomGroup": false,
+        "affixusNameGroup": "(9)",
+        "nameGroupOld": "ИС9 (3+)-11",
+        "course": 4,
+        "form": {
+          "key": 1,
+          "value": "Очная"
+        }
+      }
+    ]
+  },
+  {
+    "typeShedule": {
+      "key": 1,
+      "value": "Теоретическое обучение"
+    },
+    "typeWeek": {
+      "key": 2,
+      "value": "Знам."
+    },
+    "day": {
+      "key": 3,
+      "value": "среда"
+    },
+    "lesson": {
+      "key": 7,
+      "value": "4 пара"
+    },
+    "typeLesson": {
+      "key": 3,
+      "value": "Лабораторное занятие"
+    },
+    "dateLesson": "2017-05-03T00:00:00",
+    "timeLesson": {
+      "nameLessonTime": "4 пара",
+      "startLesson": "14:35:00",
+      "endLesson": "16:10:00",
+      "durability": "01:35"
+    },
+    "auditory": [
+      {
+        "key": 15,
+        "value": "113"
+      }
+    ],
+    "teachers": [
+      {
+        "key": [
+          166
+        ],
+        "value": "ст. преп. Банчук Г.Г."
+      },
+      {
+        "key": [],
+        "value": "ст. преп. Банчук Г.Г."
+      }
+    ],
+    "discipline": {
+      "key": 4343,
+      "value": "Основы проектирования баз данных"
+    },
+    "groups": [
+      {
+        "group": {
+          "key": 3543,
+          "value": "И-51"
+        },
+        "isPhantomGroup": false,
+        "affixusNameGroup": "(9)",
+        "nameGroupOld": "",
+        "course": 3,
+        "form": {
+          "key": 1,
+          "value": "Очная"
+        }
+      },
+      {
+        "group": {
+          "key": 4316,
+          "value": "И-62с"
+        },
+        "isPhantomGroup": true,
+        "affixusNameGroup": "(11)",
+        "nameGroupOld": "",
+        "course": 2,
+        "form": {
+          "key": 1,
+          "value": null
+        }
+      }
+    ]
+  },
+  {
+    "typeShedule": {
+      "key": 1,
+      "value": "Теоретическое обучение"
+    },
+    "typeWeek": {
+      "key": 2,
+      "value": "Знам."
+    },
+    "day": {
+      "key": 6,
+      "value": "суббота"
+    },
+    "lesson": {
+      "key": 1,
+      "value": "1 пара"
+    },
+    "typeLesson": {
+      "key": 3,
+      "value": "Лабораторное занятие"
+    },
+    "dateLesson": "2017-05-06T00:00:00",
+    "timeLesson": {
+      "nameLessonTime": "1 пара",
+      "startLesson": "08:30:00",
+      "endLesson": "10:05:00",
+      "durability": "01:35"
+    },
+    "auditory": [
+      {
+        "key": 16,
+        "value": "117"
+      }
+    ],
+    "teachers": [
+      {
+        "key": [
+          166
+        ],
+        "value": "ст. преп. Банчук Г.Г."
+      }
+    ],
+    "discipline": {
+      "key": 4348,
+      "value": "Информационные технологии и платформы разработки информационных систем"
+    },
+    "groups": [
+      {
+        "group": {
+          "key": 2486,
+          "value": "ИС-41"
+        },
+        "isPhantomGroup": false,
+        "affixusNameGroup": "(9)",
+        "nameGroupOld": "ИС9 (3+)-11",
+        "course": 4,
+        "form": {
+          "key": 1,
+          "value": "Очная"
+        }
+      }
+    ]
+  },
+  {
+    "typeShedule": {
+      "key": 15,
+      "value": "Сессия"
+    },
+    "typeWeek": {
+      "key": 2,
+      "value": "Знам."
+    },
+    "day": {
+      "key": 2,
+      "value": "вторник"
+    },
+    "lesson": {
+      "key": 11,
+      "value": "6 пара"
+    },
+    "typeLesson": {
+      "key": 1,
+      "value": "Лекционное занятие"
+    },
+    "dateLesson": "2017-05-02T00:00:00",
+    "timeLesson": {
+      "nameLessonTime": "6 пара",
+      "startLesson": "18:05:00",
+      "endLesson": "19:40:00",
+      "durability": "01:35"
+    },
+    "auditory": [
+      {
+        "key": 15,
+        "value": "113"
+      }
+    ],
+    "teachers": [
+      {
+        "key": [
+          166
+        ],
+        "value": "ст. преп. Банчук Г.Г."
+      },
+      {
+        "key": [],
+        "value": "ст. преп. Банчук Г.Г."
+      },
+      {
+        "key": [],
+        "value": "ст. преп. Банчук Г.Г."
+      }
+    ],
+    "discipline": {
+      "key": 2642,
+      "value": "Программная инженерия"
+    },
+    "groups": [
+      {
+        "group": {
+          "key": 2691,
+          "value": "ПИН-42з"
+        },
+        "isPhantomGroup": false,
+        "affixusNameGroup": "",
+        "nameGroupOld": "ПИН-32з",
+        "course": 4,
+        "form": {
+          "key": 2,
+          "value": "Заочная"
+        }
+      },
+      {
+        "group": {
+          "key": 3710,
+          "value": "ПИН-51зу"
+        },
+        "isPhantomGroup": false,
+        "affixusNameGroup": "",
+        "nameGroupOld": "ПИН-21сз",
+        "course": 3,
+        "form": {
+          "key": 2,
+          "value": "Заочная"
+        }
+      },
+      {
+        "group": {
+          "key": 4508,
+          "value": "ПИН-51зуи"
+        },
+        "isPhantomGroup": false,
+        "affixusNameGroup": "",
+        "nameGroupOld": "ПИН-21сзи",
+        "course": 3,
+        "form": {
+          "key": 2,
+          "value": "Заочная"
+        }
+      }
+    ]
+  },
+  {
+    "typeShedule": {
+      "key": 15,
+      "value": "Сессия"
+    },
+    "typeWeek": {
+      "key": 2,
+      "value": "Знам."
+    },
+    "day": {
+      "key": 4,
+      "value": "четверг"
+    },
+    "lesson": {
+      "key": 11,
+      "value": "6 пара"
+    },
+    "typeLesson": {
+      "key": 1,
+      "value": "Лекционное занятие"
+    },
+    "dateLesson": "2017-05-04T00:00:00",
+    "timeLesson": {
+      "nameLessonTime": "6 пара",
+      "startLesson": "18:05:00",
+      "endLesson": "19:40:00",
+      "durability": "01:35"
+    },
+    "auditory": [
+      {
+        "key": 26,
+        "value": "115"
+      }
+    ],
+    "teachers": [
+      {
+        "key": [
+          166
+        ],
+        "value": "ст. преп. Банчук Г.Г."
+      }
+    ],
+    "discipline": {
+      "key": 187,
+      "value": "Базы данных"
+    },
+    "groups": [
+      {
+        "group": {
+          "key": 2691,
+          "value": "ПИН-42з"
+        },
+        "isPhantomGroup": false,
+        "affixusNameGroup": "",
+        "nameGroupOld": "ПИН-32з",
+        "course": 4,
+        "form": {
+          "key": 2,
+          "value": "Заочная"
+        }
+      }
+    ]
+  },
+  {
+    "typeShedule": {
+      "key": 15,
+      "value": "Сессия"
+    },
+    "typeWeek": {
+      "key": 2,
+      "value": "Знам."
+    },
+    "day": {
+      "key": 4,
+      "value": "четверг"
+    },
+    "lesson": {
+      "key": 13,
+      "value": "7 пара"
+    },
+    "typeLesson": {
+      "key": 3,
+      "value": "Лекционное занятие"
+    },
+    "dateLesson": "2017-05-04T00:00:00",
+    "timeLesson": {
+      "nameLessonTime": "7 пара",
+      "startLesson": "19:50:00",
+      "endLesson": "21:25:00",
+      "durability": "01:35"
+    },
+    "auditory": [
+      {
+        "key": 26,
+        "value": "115"
+      }
+    ],
+    "teachers": [
+      {
+        "key": [
+          166
+        ],
+        "value": "ст. преп. Банчук Г.Г."
+      },
+      {
+        "key": [],
+        "value": "ст. преп. Банчук Г.Г."
+      }
+    ],
+    "discipline": {
+      "key": 2642,
+      "value": "Программная инженерия"
+    },
+    "groups": [
+      {
+        "group": {
+          "key": 2691,
+          "value": "ПИН-42з"
+        },
+        "isPhantomGroup": false,
+        "affixusNameGroup": "",
+        "nameGroupOld": "ПИН-32з",
+        "course": 4,
+        "form": {
+          "key": 2,
+          "value": "Заочная"
+        }
+      },
+      {
+        "group": {
+          "key": 4508,
+          "value": "ПИН-51зуи"
+        },
+        "isPhantomGroup": false,
+        "affixusNameGroup": "",
+        "nameGroupOld": "ПИН-21сзи",
+        "course": 3,
+        "form": {
+          "key": 2,
+          "value": "Заочная"
+        }
+      }
+    ]
+  },
+  {
+    "typeShedule": {
+      "key": 15,
+      "value": "Сессия"
+    },
+    "typeWeek": {
+      "key": 2,
+      "value": "Знам."
+    },
+    "day": {
+      "key": 4,
+      "value": "четверг"
+    },
+    "lesson": {
+      "key": 13,
+      "value": "7 пара"
+    },
+    "typeLesson": {
+      "key": 1,
+      "value": "Лекционное занятие"
+    },
+    "dateLesson": "2017-05-04T00:00:00",
+    "timeLesson": {
+      "nameLessonTime": "7 пара",
+      "startLesson": "19:50:00",
+      "endLesson": "21:25:00",
+      "durability": "01:35"
+    },
+    "auditory": [
+      {
+        "key": 26,
+        "value": "115"
+      }
+    ],
+    "teachers": [
+      {
+        "key": [
+          166
+        ],
+        "value": "ст. преп. Банчук Г.Г."
+      }
+    ],
+    "discipline": {
+      "key": 2642,
+      "value": "Программная инженерия"
+    },
+    "groups": [
+      {
+        "group": {
+          "key": 3710,
+          "value": "ПИН-51зу"
+        },
+        "isPhantomGroup": false,
+        "affixusNameGroup": "",
+        "nameGroupOld": "ПИН-21сз",
+        "course": 3,
+        "form": {
+          "key": 2,
+          "value": "Заочная"
+        }
+      }
+    ]
+  },
+  {
+    "typeShedule": {
+      "key": 15,
+      "value": "Сессия"
+    },
+    "typeWeek": {
+      "key": 2,
+      "value": "Знам."
+    },
+    "day": {
+      "key": 5,
+      "value": "пятница"
+    },
+    "lesson": {
+      "key": 11,
+      "value": "6 пара"
+    },
+    "typeLesson": {
+      "key": 1,
+      "value": "Лекционное занятие"
+    },
+    "dateLesson": "2017-05-05T00:00:00",
+    "timeLesson": {
+      "nameLessonTime": "6 пара",
+      "startLesson": "18:05:00",
+      "endLesson": "19:40:00",
+      "durability": "01:35"
+    },
+    "auditory": [
+      {
+        "key": 26,
+        "value": "115"
+      }
+    ],
+    "teachers": [
+      {
+        "key": [
+          166
+        ],
+        "value": "ст. преп. Банчук Г.Г."
+      }
+    ],
+    "discipline": {
+      "key": 187,
+      "value": "Базы данных"
+    },
+    "groups": [
+      {
+        "group": {
+          "key": 2691,
+          "value": "ПИН-42з"
+        },
+        "isPhantomGroup": false,
+        "affixusNameGroup": "",
+        "nameGroupOld": "ПИН-32з",
+        "course": 4,
+        "form": {
+          "key": 2,
+          "value": "Заочная"
+        }
+      }
+    ]
+  },
+  {
+    "typeShedule": {
+      "key": 15,
+      "value": "Сессия"
+    },
+    "typeWeek": {
+      "key": 2,
+      "value": "Знам."
+    },
+    "day": {
+      "key": 5,
+      "value": "пятница"
+    },
+    "lesson": {
+      "key": 13,
+      "value": "7 пара"
+    },
+    "typeLesson": {
+      "key": 3,
+      "value": "Лекционное занятие"
+    },
+    "dateLesson": "2017-05-05T00:00:00",
+    "timeLesson": {
+      "nameLessonTime": "7 пара",
+      "startLesson": "19:50:00",
+      "endLesson": "21:25:00",
+      "durability": "01:35"
+    },
+    "auditory": [
+      {
+        "key": 26,
+        "value": "115"
+      }
+    ],
+    "teachers": [
+      {
+        "key": [
+          166
+        ],
+        "value": "ст. преп. Банчук Г.Г."
+      }
+    ],
+    "discipline": {
+      "key": 2642,
+      "value": "Программная инженерия"
+    },
+    "groups": [
+      {
+        "group": {
+          "key": 2691,
+          "value": "ПИН-42з"
+        },
+        "isPhantomGroup": false,
+        "affixusNameGroup": "",
+        "nameGroupOld": "ПИН-32з",
+        "course": 4,
+        "form": {
+          "key": 2,
+          "value": "Заочная"
+        }
+      }
+    ]
+  }
+]
