@@ -1,5 +1,5 @@
 let faculties = require('./jsonData/getFaculties');
-let specialtys = require('./jsonData/getSpecialtys');
+let specialties = require('./jsonData/getSpecialtys');
 let courses = require('./jsonData/getCourses');
 let groups = require('./jsonData/getGroups');
 let groupLessons = require('./jsonData/getGroupLessons');
@@ -13,7 +13,7 @@ function providerData() {
         return faculties;
     };
     this.getSpecialtys = function (idFaculty) {
-        return specialtys;
+        return specialties;
 
     };
     this.getCourses = function (idFaculty, idsSpecialty) {
