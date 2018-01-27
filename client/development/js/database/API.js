@@ -7,14 +7,22 @@ let pulpits = require('./jsonData/getPulpits');
 let teacher = require('./jsonData/getTeacher');
 let teacherLessons = require('./jsonData/getTeacherLessons');
 
-function providerData() {
+let Faculty = require('./model/Faculty');
 
+/**
+ * Используется для получения данных.
+ * @constructor
+ */
+function API() {
+
+    /**
+     * return {Faculty}
+     */
     this.getFaculties = function () {
-        return faculties;
+        return faculties.map((val) => new Faculty(val));
     };
     this.getSpecialtys = function (idFaculty) {
         return specialties;
-
     };
     this.getCourses = function (idFaculty, idsSpecialty) {
         return courses;
@@ -42,4 +50,4 @@ function providerData() {
     };
 }
 
-module.exports = providerData;
+module.exports = API;
